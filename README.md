@@ -20,7 +20,8 @@ This is my GitHub profile but I also host other projects on:
 ## Support
 
 If you like [what I build](https://infertux.com/), you can donate to me on
-[liberapay.com](https://liberapay.com/infertux) or
+[GitHub](https://github.com/sponsors/infertux),
+[liberapay.com](https://liberapay.com/infertux),
 [patreon.com](https://www.patreon.com/infertux) or
 [thanks.dev](https://thanks.dev/).
 
