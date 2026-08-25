@@ -13,8 +13,8 @@ This is my GitHub profile but I also host other projects on:
 
 ## Contact
 
-  - Email: cedric AT felizard.eu
-  - PGP: [0xEEC73D5809A98A9B](https://felizard.eu/.well-known/openpgpkey/hu/rodd8k134jmdtzwaydzw8krk4mtytw1p)
+  - Email: cedric AT felizard.fr
+  - PGP: [0xEEC73D5809A98A9B](https://felizard.fr/.well-known/openpgpkey/hu/rodd8k134jmdtzwaydzw8krk4mtytw1p)
   - LinkedIn: [cedricfelizard](https://www.linkedin.com/in/cedricfelizard)
 
 ## Support
