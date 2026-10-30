@@ -7,10 +7,6 @@ This is my GitHub profile but I also host other projects on:
  * My own website: <https://infertux.com/>
  * GitLab: <https://gitlab.com/infertux>
 
-## Top stacks: Ruby/Rails, Chef & DevOps
-
-<img src="https://github-readme-stats.vercel.app/api?username=infertux&show_icons=true" alt="infertux's GitHub stats" />
-
 ## Contact
 
   - Email: cedric AT felizard.fr
